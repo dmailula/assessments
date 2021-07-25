@@ -1,0 +1,5 @@
+Please implement the below steps in order to run and test the application successfully
+
+1. tsc src/app/stack/main.ts // compile the files
+2. node src/app/stack/main.js // run the application
+3. npm run test // running jest tests suite
